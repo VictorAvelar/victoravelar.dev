@@ -47,7 +47,7 @@ assets:
   apple_touch_icon: "/apple-touch-icon.png"
   # safari_pinned_tab:  "/safari-pinned-tab.svg"
 params:
-  env: dev # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Victor Avelar - Tech Lead @ Zizoo GmbH
   description: I'm a mexican software engineer living in Germany.
   keywords: [blog, software engineer, mexican, mexico, germany]
