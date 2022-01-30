@@ -1,0 +1,105 @@
+baseURL: https://victoravelar.dev/
+languageCode: en-GB
+theme: PaperMod
+
+# Site metadata
+title: VictorAvelar
+defaultContentLanguage: "en"
+
+# theme configuration
+enableRobotsTXT: true
+enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  # minifyOutput:
+
+languages:
+  en:
+    languageName: ":en:"
+    languageAltTitle: "English"
+    weight: 1
+    menu:
+      main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 20
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 30
+        - identifier: archive
+          name: archive
+          url: /archive/
+          weight: 40
+        - identifier: search
+          name: "\U0001F50D"
+          url: /search/
+          weight: 50
+assets:
+  favicon: "/favicon.ico"
+  favicon16x16: "/favicon-16x16.png"
+  favicon32x32: "/favicon-32x32.png"
+  apple_touch_icon: "/apple-touch-icon.png"
+  # safari_pinned_tab:  "/safari-pinned-tab.svg"
+params:
+  env: dev # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Victor Avelar - Tech Lead @ Zizoo GmbH
+  description: I'm a mexican software engineer living in Germany.
+  keywords: [blog, software engineer, mexican, mexico, germany]
+  author: Victor H. Avelar Ossorio
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "02 January 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    # Title: "Hi there \U0001F44B"
+    Title: "Hey there! \U0001F596"
+    Content: |
+      I am Victor Avelar a mexican software engineer living in Germany,
+      I write on software engineering subjects, and I frequently post articles and step-by-step tutorials regarding new things I've learned or topics that I'm interested in.
+      The majority of my notes are directed to my future self, but they could be useful to you as well.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/VictorAvelar"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/victoravelar/?locale=en_US"
+    - name: dev
+      url: "https://dev.to/victoravelar"
+    - name: twitter
+      url: "https://twitter.com/VictorAvelar"
+    - name: email
+      url: mailto:deltatuts@gmail.com
+  ShareButtons: ["twitter", "linkedin", "whatsapp", "reddit"]
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]

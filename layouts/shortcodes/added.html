@@ -1,0 +1,2 @@
+{{ $added := .Get "date" }}
+{{ with ($added | time).Format "02.01.2006" }} {{ . }} {{ end }}
