@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://victoravelar.dev/articles/2022-yearbook/</loc>
+    <lastmod>2022-01-30T13:43:23+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/tags/2022/</loc>
+    <lastmod>2022-01-30T13:43:23+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/articles/</loc>
+    <lastmod>2022-01-30T13:43:23+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/categories/</loc>
+    <lastmod>2022-01-30T13:43:23+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/categories/personal/</loc>
+    <lastmod>2022-01-30T13:43:23+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/tags/</loc>
+    <lastmod>2022-01-30T13:43:23+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/</loc>
+    <lastmod>2022-01-30T13:43:23+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/tags/yearbook/</loc>
+    <lastmod>2022-01-30T13:43:23+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/archive/</loc>
+  </url><url>
+    <loc>https://victoravelar.dev/search/</loc>
+  </url>
+</urlset>

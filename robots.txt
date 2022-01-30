@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://victoravelar.dev/sitemap.xml
