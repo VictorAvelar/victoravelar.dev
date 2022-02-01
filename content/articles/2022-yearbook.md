@@ -37,6 +37,7 @@ _The dates next to some of the items represents the date in which I finished the
 - [Go Time Podcast](https://changelog.com/gotime) by [Changelog Media](https://changelog.com/)
 - [The Changelog](https://changelog.com/podcast) by [Changelog Media](https://changelog.com/)
 - [Pivot](https://podcasts.voxmedia.com/show/pivot) by [The New York Magazine](https://nymag.com/)
+- [Ardan Labs Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNDY2OTQ0LnJzcw==) by [Ardan Labs](https://www.ardanlabs.com/)
 
 # Youtube Channels
 
@@ -44,6 +45,7 @@ _The dates next to some of the items represents the date in which I finished the
 - [Bloomberg Quicktake](https://www.youtube.com/BloombergTV) by [Bloomberg L.P.](https://www.bloomberg.com/qt)
 - [.cult](https://www.youtube.com/c/Honeypotio) by [Honeypot](https://honeypot.io) - [.cult dedicated website](https://cult.honeypot.io/)
 - [NoClip](https://www.youtube.com/c/NoclipVideo) by [NoClip TV](https://www.noclip.video/)
+- [Ardan Labs](https://www.youtube.com/channel/UCCgGRKeRM1b0LTDqqb4NqjA) by [Ardab Labs](https://www.ardanlabs.com/)
 
 # Newsletters
 
