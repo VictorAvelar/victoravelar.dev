@@ -31,7 +31,7 @@ _The dates next to some of the items represents the date in which I finished the
 # Books
 
 - [Atomic Habits](https://jamesclear.com/atomic-habits) by [James Clear](https://jamesclear.com) - {{% added date="2022-01-30" %}}
-- [Grooking Algorithms](https://www.manning.com/books/grokking-algorithms?query=grooking%20algorithms) by [Adit Y. Bahrgava via Manning](https://adit.io/) - {{% added date="2022-03-13"  %}}
+- [Grooking Algorithms](https://www.manning.com/books/grokking-algorithms) by [Aditya Y. Bahrgava via Manning](https://adit.io/) - {{% added date="2022-03-13"  %}}
 
 # Podcasts
 
