@@ -39,7 +39,7 @@ editPost:
 >
 > If you find the notes interesting, you should consider [getting a copy of the book](https://www.manning.com/books/grokking-algorithms).
 
-> # :warning: This is a work in progress, you can expect the article to grow.
+> ### :warning: This is a work in progress, you can expect the article to grow.
 
 # Chapter 1 - Introduction
 
