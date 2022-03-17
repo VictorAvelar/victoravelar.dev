@@ -166,7 +166,7 @@ Example: Operations performed for lists of size 1, 8, 64, and 1024.
 | O(n!)      | 1      | 40320  | 1.2688693 X 10^89 | infinity (too big to compute)             |
 | O(n log n) | 1      | 24     | 384               | 10240                                     |
 
-# Chapter 2 - Sorting
+# Chapter 2 - Selection sort
 
 ## How memory works
 
