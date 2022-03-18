@@ -259,3 +259,108 @@ fmt.Printf("root is %v and next is %v, and next.Next is %v", root, root.Next, ro
 Go playground: https://go.dev/play/p/V_zOwyM936O
 
 ### Deletions
+
+When it comes to deletions the situation doesn't change much, lists are better, you just need to move the pointer and :bomb: an item is off the list.
+
+```go
+// main()
+type node struct {
+	Val  int
+	Next *node
+}
+
+root := &node{10, nil}
+
+root.Next = &node{9, nil}
+
+root.Next.Next = &node{8, nil}
+
+n := root
+
+for n != nil {
+	fmt.Println(n.Val)
+	n = n.Next
+}
+
+// Now let's suppose we only want even numbers in our list,
+// so we need to remove the 9
+
+root.Next = root.Next.Next
+
+n = root
+
+for n != nil {
+	fmt.Println(n.Val)
+	n = n.Next
+}
+
+```
+
+Go playground: https://go.dev/play/p/HWwpT8tteu1
+
+With arrays everything needs to be moved but unlike insertions deletions will always work.
+
+> :bulb: array insertions can fail when there is no more space in memory and the array cannot be dynamically extended.
+
+### :bookmark:
+
+It is a common practice to keep track of the first and last element of a linked list, that way removing or inserting at the start / end of the list is always O(1).
+
+There are two different types of access, _random access_ and _sequential access_.
+
+**:pushpin: Linked lists can only do sequential access**
+
+**:pushpin: Arrays are better if you need random access**
+
+> :bulb: Random access means that you can inmmediatly jump to any point of the array.
+
+```go
+arr := []int{1,2,3,4,5}
+
+// Random access to 4
+arr[3] // prints 4
+
+// With a list you will get sequential access:
+// Image the list above is represented using linked nodes: 1->2->3->4->5->nil
+root.Next.Next.Next // prints 4
+```
+
+Common run time for operations on arrays and linked lists.
+
+|          | Arrays | Lists |
+| -------- | ------ | ----- |
+| Reading  | O(1)   | O(n)  |
+| Writing  | O(n)   | 0(1)  |
+| Deleting | O(n)   | O(1)  |
+
+## Selection sort
+
+Given a comparable value sort by picking the highest (desc) / lowest (asc) value and moving it to the righ position, this is know as in place sorting, do this until your list is sorted.
+
+```go
+// Sort the given array
+arr := []int{20,234,2,23,90,4}
+
+func selectionSort(list []int) []int {
+	var n = len(list)
+	for i := 0; i < n; i++ {
+		var minIdx = i
+		for j := i; j < n; j++ {
+			if list[j] < list[minIdx] {
+				minIdx = j
+			}
+		}
+		list[i], list[minIdx] = list[minIdx], list[i]
+
+		// See how the array changes on every pass.
+		fmt.Println(list)
+	}
+
+	return list
+}
+
+// main()
+fmt.Println(selectionSort(arr))
+```
+
+Go playground: https://go.dev/play/p/FHhposwF6Nk
