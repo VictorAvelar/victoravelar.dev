@@ -17,7 +17,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -364,3 +364,43 @@ fmt.Println(selectionSort(arr))
 ```
 
 Go playground: https://go.dev/play/p/FHhposwF6Nk
+
+## Chapter 3 - Recursion
+
+In computer science, recursion is a method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem.
+
+To be able to write a recursive function, you need one or several base cases and one recursive case, in plain words this means that your function needs rules to know when to stop and what to do when those rules are not met.
+
+The most famous example to practice recursion is creating a function that returns the nth number in Fibonnaci's sequence:
+
+```go
+
+func nthFib(n int) int {
+	// Initial base case, when the requested number is 0 we know
+	// we don't need to do any work.
+	if n == 0 {
+		return 0
+	}
+
+	// Another base case: The first 2 fib numbers after 0 are 1
+	// 0 1 1
+	if n <=2 {
+		return 1
+	}
+
+	// Now we need to write our recursive case, we now fib sequence is created
+	// by adding the 2 previous numbers before the one you need.
+	//
+	// To illustrate let's calculate the first 5 fib numbers/
+	// 0, 1, 1, 2, 3, 5.
+	// From that example we visualize that the fifth fib number is creating by
+	// adding the numbers at position 4 and 3, or 3 + 2.
+	// Therefore we can create our recursive case by saying:
+	return nthFib(n - 1) + nthFib(n - 2)
+	// This code will always work because we now that in order to hit our recursive
+	// case our n number needs to be > 0.
+}
+
+```
+
+Go playground: https://go.dev/play/p/Y5Vdg6VcMUW

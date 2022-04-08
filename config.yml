@@ -17,6 +17,12 @@ minify:
   disableXML: true
   # minifyOutput:
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
 languages:
   en:
     languageName: ":en:"
@@ -101,5 +107,5 @@ params:
     location: 0
     distance: 1000
     threshold: 0.4
-    minMatchCharLength: 0
+    minMatchCharLength: 3
     keys: ["title", "permalink", "summary", "content"]
