@@ -388,10 +388,10 @@ func nthFib(n int) int {
 		return 1
 	}
 
-	// Now we need to write our recursive case, we now fib sequence is created
+	// Now we need to write our recursive case, we know the fib sequence is created
 	// by adding the 2 previous numbers before the one you need.
 	//
-	// To illustrate let's calculate the first 5 fib numbers/
+	// To illustrate, let's calculate the first 5 fib numbers:
 	// 0, 1, 1, 2, 3, 5.
 	// From that example we visualize that the fifth fib number is creating by
 	// adding the numbers at position 4 and 3, or 3 + 2.
@@ -404,3 +404,61 @@ func nthFib(n int) int {
 ```
 
 Go playground: https://go.dev/play/p/Y5Vdg6VcMUW
+
+### The stack
+
+A stack is a data structure where new information is pushed to the front of the stack and when you need to retrieve a workload, you will always take whatever is at the very top of the stack.
+
+Example:
+
+```go
+// considering we have push and read as functions and:
+// push adds information to the top of our stack while read
+// retrieves the record at the top, then.
+
+stack.push(1)
+stack.push(10)
+stack.push(7)
+
+println(stack.read()) // prints 7
+```
+
+Your computer performs processes using an internal stack knwon as the `call stack`, it will allocate a stack frame for every action it needs to perform.
+
+### Recursion and the call stack
+
+Recursive functions leverage the internal call stack to avoid using additional data structures.
+
+Imagine a function called `factorial(int num) int` that calculates the factorial value of the given number, to write it in a recursive way we do something like:
+
+```go
+func factorial(int num) int {
+	// declare your base case
+	if num == 1 {
+		return 1
+	}
+
+	// declare your recursive case
+	return num * factorial(num - 1)
+}
+```
+
+Let's check how the call stack will be used to calculate the result of `factorial(3)`
+
+_on the stack I will use f to refer to factorial_
+
+| Code                   | Stack                |
+| ---------------------- | -------------------- |
+| factorial(3)           | f(3)                 |
+| factorial(2)           | f(3) -> f(2)         |
+| factorial(1)           | f(3) -> f(2) -> f(1) |
+| (base case) = return 1 | f(3) -> f(2)         |
+| (2 \* 1) = return 2    | f(3)                 |
+| (3 \* 2) = return 6    | (empty)              |
+
+See how first the program performs three calls to factorial and then starts using the result to compute the subsequent still pending calls in the stack.
+
+### Alternatives to stacks
+
+- Write your code using loops
+- You can use `tail recursion` (advanced) (not supported by all programming languages)
