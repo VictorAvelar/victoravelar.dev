@@ -1,8 +1,6 @@
 ---
 title: "2022 Yearbook"
 date: 2022-01-30T13:43:23+01:00
-draft: true
-weight: 1
 tags: ["2022", "yearbook"]
 categories: ["personal"]
 author: "Me"
@@ -32,6 +30,10 @@ _The dates next to some of the items represents the date in which I finished the
 
 - [Atomic Habits](https://jamesclear.com/atomic-habits) by [James Clear](https://jamesclear.com) - {{% added date="2022-01-30" %}}
 - [Grooking Algorithms](https://www.manning.com/books/grokking-algorithms) by [Aditya Y. Bahrgava via Manning](https://adit.io/) - {{% added date="2022-03-13"  %}}
+- [Math with Bad Drawings](https://mathwithbaddrawings.com/) by [Ben Orlin](https://www.linkedin.com/in/benjamin-orlin-9b0b0479/)  - {{% added date="2022-05-20"  %}}
+- [Change is the only constant](https://mathwithbaddrawings.com/2019/06/26/change-is-the-only-constant/) by [Ben Orlin](https://www.linkedin.com/in/benjamin-orlin-9b0b0479/) - {{% added date="2022-07-12"  %}}
+- [The Math Book](https://books.google.de/books/about/The_Math_Book.html?id=JrslMKTgSZwC&redir_esc=y) by [Cliford A. Pickover](https://en.wikipedia.org/wiki/Clifford_A._Pickover) - {{% added date="2022-09-22"  %}}
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) by [Gayle Laakmann McDowell](https://www.gayle.com/) - {{% added date="2022-12-08"  %}}
 
 # Podcasts
 

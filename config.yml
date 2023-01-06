@@ -45,6 +45,10 @@ languages:
         - identifier: search
           name: "\U0001F50D"
           url: /search/
+          weight: 60
+        - uses: uses
+          name: uses
+          url: /uses/
           weight: 50
 assets:
   favicon: "/favicon.ico"
@@ -54,7 +58,7 @@ assets:
   # safari_pinned_tab:  "/safari-pinned-tab.svg"
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Victor Avelar - Tech Lead @ Zizoo GmbH
+  title: Victor Avelar - Engineering Manager @ commercetools
   description: I'm a mexican software engineer living in Germany.
   keywords: [blog, software engineer, mexican, mexico, germany]
   author: Victor H. Avelar Ossorio
