@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 16 Mar 2022 15:14:08 +0100</lastBuildDate><atom:link href="https://victoravelar.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://victoravelar.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>personal</title>
+      <link>https://victoravelar.dev/categories/personal/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://victoravelar.dev/categories/personal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>learning</title>
       <link>https://victoravelar.dev/categories/learning/</link>
@@ -26,15 +35,6 @@
       <pubDate>Wed, 16 Mar 2022 15:14:08 +0100</pubDate>
       
       <guid>https://victoravelar.dev/categories/professional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://victoravelar.dev/categories/personal/</link>
-      <pubDate>Sun, 30 Jan 2022 13:43:23 +0100</pubDate>
-      
-      <guid>https://victoravelar.dev/categories/personal/</guid>
       <description></description>
     </item>
     

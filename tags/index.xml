@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 16 Mar 2022 15:14:08 +0100</lastBuildDate><atom:link href="https://victoravelar.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://victoravelar.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023</title>
+      <link>https://victoravelar.dev/tags/2023/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://victoravelar.dev/tags/2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yearbook</title>
+      <link>https://victoravelar.dev/tags/yearbook/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://victoravelar.dev/tags/yearbook/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>algorithms</title>
       <link>https://victoravelar.dev/tags/algorithms/</link>
@@ -26,15 +44,6 @@
       <pubDate>Sun, 30 Jan 2022 13:43:23 +0100</pubDate>
       
       <guid>https://victoravelar.dev/tags/2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>yearbook</title>
-      <link>https://victoravelar.dev/tags/yearbook/</link>
-      <pubDate>Sun, 30 Jan 2022 13:43:23 +0100</pubDate>
-      
-      <guid>https://victoravelar.dev/tags/yearbook/</guid>
       <description></description>
     </item>
     
