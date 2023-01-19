@@ -35,6 +35,7 @@ This is a continuation of my 2022 yearbook. [See the 2022 yearbook](/articles/20
 
 - [Lex Friedman - Podcast](https://lexfridman.com/podcast/) by [Lex Friedman](https://lexfridman.com) - {{% added date="2023-01-01"  %}}
 - [The Wild Project](https://www.youtube.com/channel/UCBYyJBCtCvgqA4NwtoPMwpQ) by [Jordi Wild](https://www.jordiwild.com/) - {{% added date="2023-01-01" %}}
+- [Huberman Lab](https://hubermanlab.com/) by [Andrew Huberman](https://profiles.stanford.edu/andrew-huberman) - {{% added date="2023-01-18" %}}
 
 ## Youtube channels
 - [Zack Star](https://www.youtube.com/@zachstar) by [Zach Start](https://twitter.com/ImZachStar)
@@ -43,3 +44,5 @@ This is a continuation of my 2022 yearbook. [See the 2022 yearbook](/articles/20
 ## Newsletters
 - [TL;DR](https://tldr.tech/) by [Dan Ni](https://twitter.com/tldrdan)
 - [The Neuron Daily](https://www.theneurondaily.com/) by [Pete](https://twitter.com/nonmayorpete)
+- [Frontend focus](https://frontendfoc.us/) by [Cooperpress](https://cooperpress.com/)
+- [JAMStacked](https://jamstack.email/) by [Cooperpress](https://cooperpress.com/)
