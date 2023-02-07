@@ -6,9 +6,10 @@ summary: "Stuff that I use"
 
 ## Hardware
 
+- Mac Mini M2 2023 :eyeglasses:
 - Macbook Pro 16' 2022           :briefcase:
 - Thinkpad X1 Carbon 2020        :video_game:
-- Samsung Odyssey G9             :monitor:
+- Samsung Odyssey G9             :computer:
 - Logitech MX Ergonomic Vertical Mouse
 - Keychron K8
 - Yeti Blue Condenser Mic.
@@ -25,8 +26,7 @@ summary: "Stuff that I use"
 ### Coding
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [iTerm2](https://iterm2.com/)
-- [Starship](https://starship.rs)
+- [Warp](https://warp.dev)
 - [PHPStorm](https://www.jetbrains.com/phpstorm/)
 
 ### Website
@@ -40,3 +40,4 @@ summary: "Stuff that I use"
 - [Youtube Premium](https://www.youtube.com/premium)
 - [NordVPN](https://nordvpn.com/)
 - [Nordpass](https://nordpass.com)
+- [Warp](https://warp.dev)
