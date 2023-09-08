@@ -10,6 +10,7 @@ summary: "Stuff that I use"
 - Macbook Pro 16' 2022           :briefcase:
 - Thinkpad X1 Carbon 2020        :video_game:
 - Samsung Odyssey G9             :computer:
+- Amazon Kindle Scribe :book:
 - Logitech MX Ergonomic Vertical Mouse
 - Keychron K8
 - Yeti Blue Condenser Mic.
@@ -17,7 +18,7 @@ summary: "Stuff that I use"
 - Nintendo Switch OLED           :video_game:
 - Nitento Switch PRO controller          :video_game:
 - Playstation 5 - Disk edition           :video_game:
-- Google Pixel 6
+- Google Pixel 7
 - Pixel Buds PRO         :runner:
 - Bose 700
 
@@ -28,11 +29,14 @@ summary: "Stuff that I use"
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Warp](https://warp.dev)
 - [PHPStorm](https://www.jetbrains.com/phpstorm/)
+- [Laravel Idea](https://laravel-idea.com/)
 
 ### Website
 
 - [Hugo](https://gohugo.io)
 - [Github Pages](https://pages.github.com/)
+- [Porkbun](https://porkbun.com/)
+- [Cloudfare](https://www.cloudflare.com/)
 
 ## Apps and Services
 
