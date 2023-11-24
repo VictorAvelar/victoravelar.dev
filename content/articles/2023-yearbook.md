@@ -32,7 +32,7 @@ This is a continuation of my 2022 yearbook. [See the 2022 yearbook](/articles/20
 - [Mindset](https://amzn.eu/d/4c9dcSK) by [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) - {{% added date="2023-01-06" %}}
 - [Javascript: The good parts](https://amzn.eu/d/f0uPoef) by [Douglas Crockford](https://www.crockford.com/) - {{% added date="2023-04-13"  %}}
 - [Refactoring UI](https://www.refactoringui.com/) by [Adam Whatan](https://adamwathan.me/) & [Steve Schroger](https://www.steveschoger.com/) {{% added date="2023-06-18" %}}
-- [Engineering management for the rest of us](https://www.engmanagement.dev/) by [Sarah Drasner](https://sarahdrasnerdesign.com/) - {{% added date="2023-08-27  %}}
+- [Engineering management for the rest of us](https://www.engmanagement.dev/) by [Sarah Drasner](https://sarahdrasnerdesign.com/) - {{% added date="2023-08-27"  %}}
 
 ## Podcasts
 
