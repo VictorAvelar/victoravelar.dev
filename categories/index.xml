@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on VictorAvelar</title>
     <link>https://victoravelar.dev/categories/</link>
@@ -10,25 +10,25 @@
       <link>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-GB</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="https://victoravelar.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>personal</title>
+      <title>Personal</title>
       <link>https://victoravelar.dev/categories/personal/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
       <guid>https://victoravelar.dev/categories/personal/</guid>
       <description></description>
     </item>
     <item>
-      <title>learning</title>
+      <title>Learning</title>
       <link>https://victoravelar.dev/categories/learning/</link>
       <pubDate>Wed, 16 Mar 2022 15:14:08 +0100</pubDate>
       <guid>https://victoravelar.dev/categories/learning/</guid>
       <description></description>
     </item>
     <item>
-      <title>professional</title>
+      <title>Professional</title>
       <link>https://victoravelar.dev/categories/professional/</link>
       <pubDate>Wed, 16 Mar 2022 15:14:08 +0100</pubDate>
       <guid>https://victoravelar.dev/categories/professional/</guid>
