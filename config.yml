@@ -23,33 +23,28 @@ outputs:
     - RSS
     - JSON # is necessary
 
-languages:
-  en:
-    languageName: ":en:"
-    languageAltTitle: "English"
-    weight: 1
-    menu:
-      main:
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 20
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 30
-        - identifier: archive
-          name: archive
-          url: /archive/
-          weight: 40
-        - identifier: search
-          name: "\U0001F50D"
-          url: /search/
-          weight: 60
-        - uses: uses
-          name: uses
-          url: /uses/
-          weight: 50
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 40
+    - identifier: search
+      name: "\U0001F50D"
+      url: /search/
+      weight: 60
+    - uses: uses
+      name: uses
+      url: /uses/
+      weight: 50
 assets:
   favicon: "/favicon.ico"
   favicon16x16: "/favicon-16x16.png"
@@ -66,7 +61,7 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "02 January 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: true
+  disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -99,11 +94,11 @@ params:
       url: "https://www.linkedin.com/in/victoravelar/?locale=en_US"
     - name: dev
       url: "https://dev.to/victoravelar"
-    - name: twitter
+    - name: x
       url: "https://twitter.com/VictorAvelar"
     - name: email
       url: mailto:deltatuts@gmail.com
-  ShareButtons: ["twitter", "linkedin", "whatsapp", "reddit"]
+  ShareButtons: ["twitter", "linkedin", "whatsapp", "reddit", "telegram"]
 
   fuseOpts:
     isCaseSensitive: false

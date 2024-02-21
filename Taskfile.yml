@@ -1,0 +1,12 @@
+version: "3"
+
+tasks:
+  update-theme:
+    cmds:
+      - git submodule update --remote --merge
+  serve:
+    cmds:
+      - hugo server -D
+  simulate-prod:
+    cmds:
+      - HUGO_ENV=production hugo server --minify --gc --cleanDestinationDir
