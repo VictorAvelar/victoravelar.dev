@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0100</lastBuildDate>
     <atom:link href="https://victoravelar.dev/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Yearbook</title>
+      <link>https://victoravelar.dev/articles/2025-yearbook/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://victoravelar.dev/articles/2025-yearbook/</guid>
+      <description>Substantial, but not exhaustive, list of significant items I&amp;#39;ve read, seen, listened to, or loved in the year 2025. </description>
+    </item>
     <item>
       <title>2024 Yearbook</title>
       <link>https://victoravelar.dev/articles/2024-yearbook/</link>
