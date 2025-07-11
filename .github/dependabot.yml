@@ -6,11 +6,18 @@ updates:
     schedule:
       interval: daily
     reviewers:
-    - VictorAvelar 
-  
+      - VictorAvelar
+
   - package-ecosystem: docker
     directory: .devcontainer/
     schedule:
       interval: weekly
     reviewers:
-    - VictorAvelar 
+      - VictorAvelar
+
+  - package-ecosystem: gomod
+    directory: /
+    schedule:
+      interval: weekly
+    reviewers:
+      - VictorAvelar
