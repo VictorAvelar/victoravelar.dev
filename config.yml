@@ -80,12 +80,9 @@ params:
     enabled: false
 
   homeInfoParams:
-    # Title: "Hi there \U0001F44B"
-    Title: "Hey there! \U0001F596"
+    Title: "Engineering Leadership & Strategic Innovation"
     Content: |
-      I am Victor Avelar a mexican software engineer living in Germany,
-      I write on software engineering subjects, and I frequently post articles and step-by-step tutorials regarding new things I've learned or topics that I'm interested in.
-      The majority of my notes are directed to my future self, but they could be useful to you as well.
+      Engineering Manager based in Germany, I lead with a focus on strategic innovation and technical excellence. I specialize in cultivating high-performing engineering teams that consistently deliver impactful solutions, particularly in enhancing developer experience and extending complex platform capabilities. My leadership is marked by a proven ability to skillfully navigate organizational change, drive exceptional results, and foster inclusive, psychologically safe environments where talent thrives and commitments are met.
 
   socialIcons:
     - name: github

@@ -2,50 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on VictorAvelar</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://victoravelar.dev/tags/</link>
     <description>Recent content in Tags on VictorAvelar</description>
     <image>
       <title>VictorAvelar</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.140.1</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://victoravelar.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024</title>
-      <link>http://localhost:1313/tags/2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/2024/</guid>
+      <title>2025</title>
+      <link>https://victoravelar.dev/tags/2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://victoravelar.dev/tags/2025/</guid>
       <description></description>
     </item>
     <item>
       <title>Yearbook</title>
-      <link>http://localhost:1313/tags/yearbook/</link>
+      <link>https://victoravelar.dev/tags/yearbook/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>https://victoravelar.dev/tags/yearbook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2024</title>
+      <link>https://victoravelar.dev/tags/2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/yearbook/</guid>
+      <guid>https://victoravelar.dev/tags/2024/</guid>
       <description></description>
     </item>
     <item>
       <title>2023</title>
-      <link>http://localhost:1313/tags/2023/</link>
+      <link>https://victoravelar.dev/tags/2023/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/2023/</guid>
+      <guid>https://victoravelar.dev/tags/2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Algorithms</title>
-      <link>http://localhost:1313/tags/algorithms/</link>
+      <link>https://victoravelar.dev/tags/algorithms/</link>
       <pubDate>Wed, 16 Mar 2022 15:14:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/algorithms/</guid>
+      <guid>https://victoravelar.dev/tags/algorithms/</guid>
       <description></description>
     </item>
     <item>
       <title>2022</title>
-      <link>http://localhost:1313/tags/2022/</link>
+      <link>https://victoravelar.dev/tags/2022/</link>
       <pubDate>Sun, 30 Jan 2022 13:43:23 +0100</pubDate>
-      <guid>http://localhost:1313/tags/2022/</guid>
+      <guid>https://victoravelar.dev/tags/2022/</guid>
       <description></description>
     </item>
   </channel>
