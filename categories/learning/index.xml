@@ -9,15 +9,15 @@
       <url>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.154.2</generator>
     <language>en-GB</language>
     <lastBuildDate>Wed, 16 Mar 2022 15:14:08 +0100</lastBuildDate>
     <atom:link href="https://victoravelar.dev/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Notes on Grooking Algorithms</title>
-      <link>https://victoravelar.dev/articles/my-notes-on-grooking-algorithms/</link>
+      <link>https://victoravelar.dev/articles/2022/my-notes-on-grooking-algorithms/</link>
       <pubDate>Wed, 16 Mar 2022 15:14:08 +0100</pubDate>
-      <guid>https://victoravelar.dev/articles/my-notes-on-grooking-algorithms/</guid>
+      <guid>https://victoravelar.dev/articles/2022/my-notes-on-grooking-algorithms/</guid>
       <description>Grooking algorithms is an illustrated guide on algorithms and data structures.</description>
     </item>
   </channel>

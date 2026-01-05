@@ -9,15 +9,15 @@
       <url>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.154.2</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0100</lastBuildDate>
     <atom:link href="https://victoravelar.dev/tags/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Yearbook</title>
-      <link>https://victoravelar.dev/articles/2023-yearbook/</link>
+      <link>https://victoravelar.dev/articles/2023/yearbook/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0100</pubDate>
-      <guid>https://victoravelar.dev/articles/2023-yearbook/</guid>
+      <guid>https://victoravelar.dev/articles/2023/yearbook/</guid>
       <description>Substantial, but not exhaustive, list of significant items I&amp;#39;ve read, seen, listened to, or loved in the year 2023. </description>
     </item>
   </channel>
