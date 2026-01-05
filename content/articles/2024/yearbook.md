@@ -15,7 +15,6 @@ description: "Substantial, but not exhaustive, list of significant items I've re
 canonicalURL: "https://victoravelar.dev/articles/2024-yearbook/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -25,13 +24,13 @@ ShowPostNavLinks: true
 
 _The dates next to some of the items represents the date in which I finished the book, movie or course._
 
+- 
 This is a continuation of my 2023 yearbook. [See the 2023 yearbook](/articles/2023-yearbook/)
 
 ## Books
 - 
 
 ## Podcasts
-- 
 
 ## Youtube channels
 - 

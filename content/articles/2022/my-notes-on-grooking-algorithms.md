@@ -8,14 +8,12 @@ author: "Victor Avelar"
 # post features
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
 description: "Grooking algorithms is an illustrated guide on algorithms and data structures."
 canonicalURL: ""
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

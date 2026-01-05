@@ -14,7 +14,6 @@ description: "Substantial, but not exhaustive, list of significant items I've re
 canonicalURL: "https://victoravelar.dev/articles/2022-yearbook/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
