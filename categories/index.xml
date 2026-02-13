@@ -9,10 +9,17 @@
       <url>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.155.3</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 14:49:25 +0100</lastBuildDate>
     <atom:link href="https://victoravelar.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional</title>
+      <link>https://victoravelar.dev/categories/professional/</link>
+      <pubDate>Fri, 13 Feb 2026 14:49:25 +0100</pubDate>
+      <guid>https://victoravelar.dev/categories/professional/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Personal</title>
       <link>https://victoravelar.dev/categories/personal/</link>
@@ -25,13 +32,6 @@
       <link>https://victoravelar.dev/categories/learning/</link>
       <pubDate>Wed, 16 Mar 2022 15:14:08 +0100</pubDate>
       <guid>https://victoravelar.dev/categories/learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Professional</title>
-      <link>https://victoravelar.dev/categories/professional/</link>
-      <pubDate>Wed, 16 Mar 2022 15:14:08 +0100</pubDate>
-      <guid>https://victoravelar.dev/categories/professional/</guid>
       <description></description>
     </item>
   </channel>

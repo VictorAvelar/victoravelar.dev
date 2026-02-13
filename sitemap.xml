@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://victoravelar.dev/articles/2026/navigating-the-current-landscape-growth-beyond-the-ladder/</loc>
+    <lastmod>2026-02-13T14:49:25+01:00</lastmod>
+  </url><url>
     <loc>https://victoravelar.dev/articles/2025/yearbook/</loc>
     <lastmod>2025-01-01T00:00:00+01:00</lastmod>
   </url><url>
@@ -11,22 +14,31 @@
     <loc>https://victoravelar.dev/articles/2023/yearbook/</loc>
     <lastmod>2023-01-06T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>https://victoravelar.dev/tags/2026/</loc>
+    <lastmod>2026-02-13T14:49:25+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/articles/</loc>
+    <lastmod>2026-02-13T14:49:25+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/categories/</loc>
+    <lastmod>2026-02-13T14:49:25+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/tags/engineering-management/</loc>
+    <lastmod>2026-02-13T14:49:25+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/categories/professional/</loc>
+    <lastmod>2026-02-13T14:49:25+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/tags/</loc>
+    <lastmod>2026-02-13T14:49:25+01:00</lastmod>
+  </url><url>
+    <loc>https://victoravelar.dev/</loc>
+    <lastmod>2026-02-13T14:49:25+01:00</lastmod>
+  </url><url>
     <loc>https://victoravelar.dev/tags/2025/</loc>
     <lastmod>2025-01-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://victoravelar.dev/articles/</loc>
-    <lastmod>2025-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://victoravelar.dev/categories/</loc>
-    <lastmod>2025-01-01T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://victoravelar.dev/categories/personal/</loc>
-    <lastmod>2025-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://victoravelar.dev/tags/</loc>
-    <lastmod>2025-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://victoravelar.dev/</loc>
     <lastmod>2025-01-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://victoravelar.dev/tags/yearbook/</loc>
@@ -45,9 +57,6 @@
     <lastmod>2022-03-16T15:14:08+01:00</lastmod>
   </url><url>
     <loc>https://victoravelar.dev/articles/2022/my-notes-on-grooking-algorithms/</loc>
-    <lastmod>2022-03-16T15:14:08+01:00</lastmod>
-  </url><url>
-    <loc>https://victoravelar.dev/categories/professional/</loc>
     <lastmod>2022-03-16T15:14:08+01:00</lastmod>
   </url><url>
     <loc>https://victoravelar.dev/tags/2022/</loc>
