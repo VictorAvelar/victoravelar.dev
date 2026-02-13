@@ -21,7 +21,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 editPost:
-    URL: "https://github.com/VictorAvelar/victoravelar.dev/content"
+    URL: "https://github.com/VictorAvelar/victoravelar.dev/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
