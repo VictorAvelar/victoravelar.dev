@@ -1,5 +1,5 @@
 ---
-title: "Navigating the Current Landscape Growth Beyond the Ladder"
+title: "Navigating the Current Landscape: Growth Beyond the Ladder"
 date: 2026-02-13T14:49:25+01:00
 weight: 1
 draft: false
