@@ -9,10 +9,17 @@
       <url>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://victoravelar.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.155.3</generator>
+    <generator>Hugo -- 0.156.0</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 13 Feb 2026 14:49:25 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 18:41:44 +0100</lastBuildDate>
     <atom:link href="https://victoravelar.dev/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Institutionalization of the Software Professional</title>
+      <link>https://victoravelar.dev/articles/2026/the-institutionalization-of-the-software-professional/</link>
+      <pubDate>Mon, 23 Feb 2026 18:41:44 +0100</pubDate>
+      <guid>https://victoravelar.dev/articles/2026/the-institutionalization-of-the-software-professional/</guid>
+      <description>I’ve been institutionalized by corporate tech. I spent a whole weekend architecting a foundation for a camping tent instead of just shipping. No more.</description>
+    </item>
     <item>
       <title>Navigating the Current Landscape: Growth Beyond the Ladder</title>
       <link>https://victoravelar.dev/articles/2026/navigating-the-current-landscape-growth-beyond-the-ladder/</link>
